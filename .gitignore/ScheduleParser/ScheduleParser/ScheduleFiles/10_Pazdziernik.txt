@@ -1,0 +1,63 @@
+Z dnia 09.10.2018 	1 zmiana
+7:00-19:30 	2 zmiana
+19:00-7:30 	Field 	SDH 	SID 	MOD 	IP 	Radio 	BackOffice 	Szkolenia,
+wyjazdy, inne 	Urlopy, zwolnienia
+poniedzia≥ek 01.paü 	mwj, pmi 	jkr, mfo 	awy 	lku 	bms 	bms 	mwt 	asr
+ pko pgs kpu 	azj, abg, awe 	 
+wtorek 02.paü 	prg, plc 	mwj, pmi 	awy 	lku 	bms 	bms 	mwt 	asr 	 pko
+pgs kpu 	azj, abg, awe 	 
+úroda 03.paü 	pwi, msp 	prg, plc 	awy 	lku 	bms 	bms 	mwt 	asr 	 abg awe
+pko pgs kpu 	azj 	 
+czwartek 04.paü 	jkr, pmi 	pwi, msp 	awy 	lku 	bms 	bms 	awe 	asr 	 abg
+mwt pko pgs kpu 	azj 	 
+piπtek 05.paü 	mfo, pmi 	pwi, ksw 	awy 	lku 	bms 	bms 	awe 	asr 	 abg
+mwt pko pgs kpu 	azj 	mwj
+sobota 06.paü 	prg, plc 	ksw, pmi 	awy 	lku 	bms 	bms 	awe 	asr 	  	  	mwj
+niedziela 07.paü 	pwi, prg 	msp, plc 	awy 	lku 	bms 	bms 	awe 	asr
+  	  	mwj
+poniedzia≥ek 08.paü 	jkr, ksw 	pwi, msp 	prg 	pgs 	kpu 	bms 	abg 	pgs
+ mwt lku awe pko 	azj 	mwj, awy
+wtorek 09.paü 	mwu, ksw 	jkr, mfo 	prg 	pgs 	kpu 	bms 	abg 	pgs 	 mwt
+lku awe pko 	azj 	mwj, awy
+úroda 10.paü 	plc, ksw 	mwu, pwi 	prg 	pgs 	kpu 	bms 	abg 	pgs 	 mwt lku
+awe pko 	azj 	mwj, awy
+czwartek 11.paü 	jkr, msp 	plc, mfo 	prg 	pgs 	kpu 	bms 	abg 	pgs 	 mwt
+lku awe pko 	azj 	mwj, pmi, awy
+piπtek 12.paü 	jkr, ksw 	plc, msp 	prg 	pgs 	kpu 	bms 	abg 	pgs 	 mwt
+lku awe pko 	azj 	mwj, pmi, awy
+sobota 13.paü 	jkr, mfo 	mwu, msp 	prg 	pgs 	kpu 	bms 	abg 	pgs 	  	 
+mwj,pmi, awy
+niedziela 14.paü 	pwi, mfo 	mwu, ksw 	prg 	pgs 	kpu 	bms 	abg 	pgs
+  	  	mwj,pmi, awy
+poniedzia≥ek 15.paü 	prg, awy 	msp, mfo 	jkr 	lku 	kpu 	pko 	awe 	asr
+ abg mwt pgs bms 	azj 	mwj,pmi,pwi
+wtorek 16.paü 	plc, prg 	mwu, awy 	jkr 	lku 	kpu 	pko 	awe 	asr 	 abg
+mwt bms 	azj, kpu, pgs 	mwj,pmi,pwi
+úroda 17.paü 	ksw, mfo 	plc, msp 	jkr 	lku 	kpu 	pko 	awe 	asr 	 abg mwt
+bms 	azj, kpu, pgs 	mwj,pmi,pwi
+czwartek 18.paü 	pmi, mwu 	ksw, mfo 	jkr 	pgs 	kpu 	pko 	mwt 	asr 	 abg
+lku awe bms 	azj 	mwj,pwi
+piπtek 19.paü 	mwj, awy 	mfo, pmi 	jkr 	pgs 	kpu 	pko 	mwt 	asr 	 abg
+lku awe bms 	azj 	pwi
+sobota 20.paü 	plc, msp 	mwu, jkr 	jkr 	pgs 	kpu 	pko 	mwt 	asr 	  	  	 
+niedziela 21.paü 	plc, mfo 	mwu, mwj 	jkr 	pgs 	kpu 	pko 	mwt 	asr 	  	  	 
+poniedzia≥ek 22.paü 	msp, pmi 	jkr, prg 	mwj 	lku 	bms 	pko 	awe 	kpu
+ abg mwt pgs 	azj 	pwi
+wtorek 23.paü 	plc, awy 	prg, pmi 	mwj 	lku 	bms 	pko 	awe 	kpu 	 abg
+mwt pgs 	azj 	 
+úroda 24.paü 	ksw, msp 	plc, awy 	mwj 	lku 	bms 	pko 	awe 	kpu 	 abg mwt
+pgs 	azj 	 
+czwartek 25.paü 	jkr, mwu 	ksw, msp 	mwj 	lku 	bms 	pko 	awe 	kpu 	 abg
+mwt pgs 	azj 	 
+piπtek 26.paü 	prg, pmi 	jkr, mwu 	mwj 	lku 	bms 	pko 	awe 	kpu 	 abg
+mwt pgs 	azj 	 
+sobota 27.paü 	ksw, awy 	prg, pmi 	mwj 	lku 	bms 	pko 	awe 	kpu 	  	  	 
+niedziela 28.paü 	ksw, msp 	plc, awy 	mwj 	lku 	bms 	pko 	awe 	kpu 	  	  	 
+poniedzia≥ek 29.paü 	jkr, mfo 	awy, msp 	ksw 	lku 	bms 	bms 	abg 	asr
+ mwt awe pko pgs kpu 	azj 	mwj
+wtorek 30.paü 	prg, pmi 	jkr, mwu 	ksw 	lku 	bms 	bms 	abg 	asr 	 mwt
+awe pko pgs kpu 	azj 	mwj
+úroda 31.paü 	plc, awy 	mfo, pmi 	ksw 	lku 	bms 	bms 	abg 	asr 	 mwt awe
+pko pgs kpu 	azj 	prg, mwj
+											
+

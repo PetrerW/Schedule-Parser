@@ -1,0 +1,10 @@
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\bin\Debug\ScheduleParser.exe.config
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\bin\Debug\ScheduleParser.exe
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\bin\Debug\ScheduleParser.pdb
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\obj\Debug\ScheduleParser.csprojResolveAssemblyReference.cache
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\obj\Debug\ScheduleParser.Form1.resources
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\obj\Debug\ScheduleParser.Properties.Resources.resources
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\obj\Debug\ScheduleParser.csproj.GenerateResource.Cache
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\obj\Debug\ScheduleParser.exe
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\obj\Debug\ScheduleParser.pdb
+E:\Piotr\Programowanie\C#\ScheduleParser\ScheduleParser\ScheduleParser\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
